@@ -5,11 +5,6 @@ BODY
     FONT-FAMILY: Tahoma;
     FONT-SIZE: 11px
 }
-WRAP 
-{
-    WIDTH: 800px; 
-    MARGIN: 0 auto; 
-}
 P
 {
     COLOR: #000000;
@@ -51,6 +46,12 @@ TABLE.Content
     BORDER-LEFT: #000000 1px solid;
     BORDER-RIGHT: #000000 1px solid;
 	  BACKGROUND-COLOR: #ffffff
+}
+TABLE.Pubs
+{
+    BORDER-SPACING: 2px;
+    BORDER-COLLAPSE: separate;
+
 }
 TD.Color1
 {
