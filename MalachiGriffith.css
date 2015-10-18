@@ -5,6 +5,11 @@ BODY
     FONT-FAMILY: Tahoma;
     FONT-SIZE: 11px
 }
+WRAP 
+{
+    WIDTH: 800px; 
+    MARGIN: 0 auto; 
+}
 P
 {
     COLOR: #000000;
