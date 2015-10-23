@@ -66,9 +66,9 @@ TD.Color2
 }
 TD.Head
 {
-    COLOR: #000000;
-    FONT-FAMILY: Tahoma;
-    FONT-SIZE: 13px;
+  COLOR: #000000;
+  FONT-FAMILY: Tahoma;
+  FONT-SIZE: 13px;
 	FONT-WEIGHT:bold;
 	PADDING-LEFT: 12px;
 	PADDING-RIGHT: 12px;
@@ -76,9 +76,9 @@ TD.Head
 }
 TD.Data
 {
-    COLOR: #000000;
-    FONT-FAMILY: Tahoma;
-    FONT-SIZE: 13px;
+  COLOR: #000000;
+  FONT-FAMILY: Tahoma;
+  FONT-SIZE: 13px;
 	PADDING-LEFT: 12px;
 	PADDING-RIGHT: 12px;
 	TEXT-ALIGN: left
@@ -91,7 +91,7 @@ TD.Data
 .Indented12LR_spaced
 {
 	MARGIN-LEFT: 12px;
-    MARGIN-RIGHT: 12px;
+  MARGIN-RIGHT: 12px;
 	MARGIN-TOP: 5px;
 	MARGIN-BOTTOM: 15px
 	
@@ -99,25 +99,25 @@ TD.Data
 .Indented12LR_bold
 {
 	MARGIN-LEFT: 12px;
-    MARGIN-RIGHT: 12px;
+  MARGIN-RIGHT: 12px;
 	FONT-WEIGHT: bold
 }
 .Indented12LR_s16_Bold
 {
-    MARGIN-LEFT: 12px;
-    MARGIN-RIGHT: 12px;
+  MARGIN-LEFT: 12px;
+  MARGIN-RIGHT: 12px;
 	FONT-WEIGHT: bold;
 	FONT-SIZE: 16px
 }
 .Indented24LR
 {
-    MARGIN-LEFT: 24px;
-    MARGIN-RIGHT: 24px
+  MARGIN-LEFT: 24px;
+  MARGIN-RIGHT: 24px
 }
 .Indented24LR_bold
 {
-    MARGIN-LEFT: 24px;
-    MARGIN-RIGHT: 24px;
+  MARGIN-LEFT: 24px;
+  MARGIN-RIGHT: 24px;
 	FONT-WEIGHT: bold
 }
 .Pic_bordered {
